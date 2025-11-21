@@ -123,6 +123,8 @@
         <a href="#">Movies</a>
         
 <a href="#">Kids</a>
+<a href="#">Telugu</a>
+
     </div>
 </div>
 
