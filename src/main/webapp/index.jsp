@@ -124,6 +124,8 @@
         
 <a href="#">Kids</a>
 <a href="#">Telugu</a>
+<a href="#">Hindi</a>
+<a href="#">English</a>
 
     </div>
 </div>
