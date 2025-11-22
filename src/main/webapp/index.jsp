@@ -122,10 +122,10 @@
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
         
-<a href="#">Telugu</a>
-<a href="#">Hindi</a>
-<a href="#">English</a>
-<a href="#">OG</a>
+<a href="#">Mahesh</a>
+<a href="#">Pavan</a>
+<a href="#">Balayya</a>
+<a href="#">Prabhas</a>
 
     </div>
 </div>
