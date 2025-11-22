@@ -122,7 +122,6 @@
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
         
-<a href="#">Adults</a>
 <a href="#">Telugu</a>
 <a href="#">Hindi</a>
 <a href="#">English</a>
